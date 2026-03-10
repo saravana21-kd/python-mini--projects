@@ -1,3 +1,4 @@
+#Mini-project
 print("Welcome to Brand Name Generator")
 
 city = input("What's the name of the city you grew up in? ")
@@ -13,3 +14,4 @@ He loved a girl called {actress},
 but she was not interested in love.
 So she shifted to {state}.
 """)
+
