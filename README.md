@@ -15,7 +15,6 @@
 <img src="" alt="project-screenshot" width="400" height="400/">
 
 
-
   
 <h2>🧐 Features </h2>
 
