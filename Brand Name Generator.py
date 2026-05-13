@@ -14,6 +14,3 @@ He loved a girl called {actress},
 but she was not interested in love.
 So she shifted to {state}.
 """)
-
-
-
